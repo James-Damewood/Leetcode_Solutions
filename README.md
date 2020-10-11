@@ -12,3 +12,5 @@ Palindrome Number: Time 95.67%, Memory 57.68%
 Intersection of Two Arrays II: Time 96.85%, Memory 55.64%
 
 Binary Tree Level Order: Time 87.54%, Memory 35.08
+
+Intersection of Two Linked Lists: Time 79.76%, Memory (O(1))
